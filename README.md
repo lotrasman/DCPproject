@@ -66,7 +66,7 @@ I track my sleep every night, along with things that might affect it (working ou
 
 | Date         | Note                                               |
 | ------------ | -------------------------------------------------- |
-| [YYYY-MM-DD] | [Anything that changed, went wrong or was unusual] |
+| 2026-11-10 | finally made a py script to help me log my stats, hopefully daily commits from now |
 
 ## Reflection
 
