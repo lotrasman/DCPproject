@@ -69,6 +69,7 @@ I track my sleep every night, along with things that might affect it (working ou
 | 2026-11-10 | finally made a py script to help me log my stats, hopefully daily commits from now |
 | 2026-11-14 | sleeplog evening |
 | 2026-11-20 | i am in egypt travelling and couldnt commit but have data offline, will fill in retrospectively ik its prohibited by the assingment but oh well |
+| 2026-11-23 | yesterday i was sick unfortunately so forgot to commit |
 
 ## Reflection
 
