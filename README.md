@@ -49,7 +49,7 @@ Measurement rules:
 - **Evening:** before bed, I record that day's workout, meals, mood and energy (and alcohol if I already know it).
 - **Morning:** right after waking, I read last night's sleep values from the Sleep app on my Apple Watch / iPhone and type them by hand into the previous day's row, plus alcohol if I didn't record it the night before. I do not export data from the app.
 - I commit the CSV to GitHub every day.
-- If I miss a value (for example, I forgot to wear the tracker), I leave it empty and write why in the diary. I never fill it in later from memory.
+- If I miss a value (for example, I forgot to wear the tracker), I leave it empty and write why in the diary. I never fill it in later from memory. (yea right)
 - Time in bed and sleep efficiency are not recorded. They are calculated in code from bedtime, wake_time and sleep_mins.
 
 # Description of the project
