@@ -100,8 +100,10 @@ I track my sleep every night, along with things that might affect it (working ou
 
 # What I am most proud of in the assignment
 
-[TODO]
+the custom ios shortcut that sends the health data recorded from my watch to Docker on my laptop, which claude can read and I can then make educated guesses about my life that way with claude's broad insight. 
+
+unfortunately i can't read so I figured too late that I can't use a tool like that for this assignment AND the script which was supposed to send the commits to github was broken for the first 10 days of the assignment which i didnt even notice which caused me to lose a bunch of data and therefore marks for the assignment. but the tool works most of the time so still pretty cool. 
 
 # What I learned
 
-[TODO]
+1.: its a pretty good idea to start doing stuff early, here I am at the 25th of November with only 14 rows of data (despite it being imo high quality data) when I could have had at least 25.
